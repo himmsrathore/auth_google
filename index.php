@@ -119,5 +119,6 @@ else // user logged in
 }
  
 echo '</body></html>';
+// use as it , it  is fully functional :)
 ?>
 
